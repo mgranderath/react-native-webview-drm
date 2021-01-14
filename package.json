@@ -1,5 +1,5 @@
 {
-  "name": "react-native-webview",
+  "name": "@mgranderath/react-native-webview-drm",
   "description": "React Native WebView component for iOS, Android, macOS, and Windows",
   "main": "index.js",
   "typings": "index.d.ts",
